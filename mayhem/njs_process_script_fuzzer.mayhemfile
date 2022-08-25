@@ -1,0 +1,4 @@
+project: PROJECT
+target: njs_process_script_fuzzer
+cmds:
+- cmd: /out/njs_process_script_fuzzer
